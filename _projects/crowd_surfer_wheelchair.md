@@ -23,5 +23,4 @@ This work has been submitted to IEEE ICRA 2025 and is currently under review.
 - Batch Optimization
 - ROS Nav Stack
 
-The CrowdSurfer codebase is available below:
 [Link to Project Repository](https://github.com/yourusername/project-repo)
