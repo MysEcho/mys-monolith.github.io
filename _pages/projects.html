@@ -23,11 +23,38 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <div class="project-entry">
+        <h3><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></h3>
+        {% if post.gif %}
+          <img src="{{ base_path }}/images/{{ post.gif }}" alt="{{ post.title }} gif" class="project-gif">
+        {% endif %}
+        {% if post.excerpt %}
+          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+        {% endif %}
+      </div>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.projects reversed %}
-    {% include archive-single.html %}
+    <div class="project-entry">
+      <h3><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></h3>
+      {% if post.gif %}
+        <img src="{{ base_path }}/images/{{ post.gif }}" alt="{{ post.title }} gif" class="project-gif">
+      {% endif %}
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
+    </div>
   {% endfor %}
 {% endif %}
+
+<style>
+  .project-entry {
+    margin-bottom: 2em;
+  }
+  .project-gif {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1em;
+  }
+</style>
