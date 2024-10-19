@@ -23,32 +23,32 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Antareep Singha"
-  pronouns         : "he/him"  
-  bio              : "Coffee, FPGAs and Robots"
+  # pronouns         : "he/him"  
+  bio              : "Extremely caffeinated Roboticist"
   location         : "Hyderabad"
   employer         : "IIIT Hyderabad"
   uri              : # URL
   email            : "antareepsinha12@g,ail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  arxiv            : "https://arxiv.org/abs/2409.16011"
+  googlescholar    : "https://scholar.google.com/citations?user=KyHntfcAAAAJ&hl=en&oi=sra"
+  # impactstory      : # URL
+  # orcid            : "http://orcid.org/yourorcidurl"
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "MysEcho"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
