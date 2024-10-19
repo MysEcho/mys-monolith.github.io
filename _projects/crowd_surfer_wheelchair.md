@@ -8,18 +8,20 @@ gif: crowd_surfer_wheelchair.gif
 category: robotics
 ---
 
-Your detailed project description goes here. You can use Markdown formatting.
+CrowdSurfer is a Path Planning Algorithm that is built on top of the Sampling based optimizer called PRIEST(our previous work). CrowdSurfer makes use of a Vector Quantized VAE to generate a distribution diverse motion primitives for PRIEST to sample from. The VQVAE model is trained by Behavior Cloning using Expert Demonstrations of a wheelchair navigating in extremely crowded environments. 
 
+This work has been submitted to IEEE ICRA 2025 and is currently under review.
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Multi-modal in nature.
+- Can navigate in extremely crowded environments with more than 50 humans.
+- Excellent run-time speeds of 40ms per trajectory rollout.
 
 ## Technologies Used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Generative Modeling (VQ-VAE + PixelCNN)
+- Batch Optimization
+- ROS Nav Stack
 
+The CrowdSurfer codebase is available below:
 [Link to Project Repository](https://github.com/yourusername/project-repo)
