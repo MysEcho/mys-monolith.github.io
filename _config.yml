@@ -232,6 +232,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  collections:
+  paintings:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site

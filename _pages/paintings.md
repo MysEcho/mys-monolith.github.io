@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: "My Paintings"
 permalink: /paintings/
+author_profile: true
 ---
 
 <div class="paintings-grid">
