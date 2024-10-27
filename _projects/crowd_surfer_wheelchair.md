@@ -24,3 +24,4 @@ This work has been submitted to IEEE ICRA 2025 and is currently under review.
 - ROS Nav Stack
 
 [Link to Project Repository](https://github.com/yourusername/project-repo)
+[View the project on YouTube](https://www.youtube.com/watch?v=B_hNlR5-4fw&t=2s)

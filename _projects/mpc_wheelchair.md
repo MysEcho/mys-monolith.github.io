@@ -23,3 +23,4 @@ The Model Predictive Control for our Autonomous Wheelchair uses IPOPT(Interior P
 - ROS Noetic
 
 [Link to Project Repository](https://github.com/yourusername/project-repo)
+[View the project on YouTube](https://www.youtube.com/watch?v=Qy6JVraIIMw)

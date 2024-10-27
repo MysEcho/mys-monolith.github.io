@@ -20,3 +20,4 @@ This pipeline finds out the body pose using RTMO. RTMO is a CVPR 2024 paper that
 - ROS Noetic
 
 [Link to Project Repository](https://github.com/yourusername/project-repo)
+[View the project on YouTube](https://www.youtube.com/watch?v=Oyhp_HQT1aQ)
