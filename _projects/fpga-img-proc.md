@@ -15,14 +15,14 @@ This work was also accepted and published at [IEEE International Conference on A
 ## Features
 
 - Uses two Video-Direct-Memory-Access channels instead of one two parallelize the read/write process.
-- I wrote a custom Dynamic Clock Generator script on Verilog to replace the Digilent Phase-Locked-Loop IP to adjust frequency on the fly. This made the system latency free.
+- I wrote a custom Dynamic Clock Generator script in VHDL to replace the Digilent Phase-Locked-Loop IP to adjust frequency on the fly. This made the system latency free.
 - This system can now also be used with two OV7670 monocular cameras to create stereo vision that is capable of replacing high-end cameras. This is project is also a testament to my desire to make robots economically feasible to everyone.
 
 ## Technologies Used
 
 - Reconfigurable Computing
-- Verilog
+- VHDL/Verilog
 - Robotics Vision
 
-[Link to Project Repository](https://github.com/yourusername/project-repo)\
+[Link to Project Repository](https://github.com/MysEcho/Dynamic-Image-Processing-on-Zynq)\
 [View the project on YouTube](https://www.youtube.com/watch?v=82h42gcCD0A)
