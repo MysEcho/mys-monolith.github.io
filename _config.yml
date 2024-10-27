@@ -232,7 +232,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  collections:
   paintings:
     output: true
     permalink: /:collection/:path/
