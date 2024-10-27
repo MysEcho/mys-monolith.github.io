@@ -8,7 +8,7 @@ gif: image_proc.gif
 category: electronics
 ---
 
-So after my internsip at IIT Madras, I became interested in Robotics Vision. I wanted to develop a fast image processing system that can essentially replace off-the-shelf cameras like RealSense and Oak3D. However, I was devoid of resources and funds to buy a cheap stereo camera, so I decided I will do it with what I have. I had only one monocular camera(OV7670) and I interfaced it with an FPGA to create a fast image processing logic.
+So after my internsip at IIT Madras, I became interested in Robotics Vision. I wanted to develop a fast image processing system that can essentially replace off-the-shelf cameras like RealSense and Oak-D. However, I was devoid of resources and funds to buy a cheap stereo camera, so I decided I will do it with what I have. I had only one monocular camera(OV7670) and I interfaced it with an FPGA to create a fast image processing logic.
 
 This work was also accepted and published at [IEEE International Conference on Advances in Computational Intelligence and Communications 2023](https://ieeexplore.ieee.org/abstract/document/10435029) with me as the solo author.
 
