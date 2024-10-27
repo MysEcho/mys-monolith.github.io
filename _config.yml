@@ -301,6 +301,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _paintings
+  - scope:
+      path: ""
+      type: paintings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
