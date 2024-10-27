@@ -2,7 +2,7 @@
 title: "CrowdSusrfer on Husky(without Global Plan)"
 excerpt: "CrowdSurfer in Action on Clearpath Husky A200 Prototype with pure local planning"
 collection: projects
-permalink: /projects/project_1
+permalink: /projects/project_3
 date: 2024-10-20
 gif: Husky_2.gif
 category: robotics
