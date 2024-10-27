@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Heya! I am Antareep!"
+title: "Hi! I am Antareep!"
 author_profile: true
 redirect_from: 
   - /about/
