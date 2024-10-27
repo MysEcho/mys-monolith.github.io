@@ -24,5 +24,5 @@ This work was also accepted and published at [IEEE International Conference on A
 - Verilog
 - Robotics Vision
 
-[Link to Project Repository](https://github.com/yourusername/project-repo)
+[Link to Project Repository](https://github.com/yourusername/project-repo)\
 [View the project on YouTube](https://www.youtube.com/watch?v=82h42gcCD0A)

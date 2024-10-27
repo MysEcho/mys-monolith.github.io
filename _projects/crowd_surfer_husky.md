@@ -24,5 +24,5 @@ This work has been submitted to IEEE ICRA 2025 and is currently under review.
 - Batch Optimization
 - ROS Nav Stack
 
-[Link to Project Repository](https://github.com/yourusername/project-repo)
+[Link to Project Repository](https://github.com/yourusername/project-repo)\
 [View the project on YouTube](https://www.youtube.com/watch?v=KdJvIh54vG0)
