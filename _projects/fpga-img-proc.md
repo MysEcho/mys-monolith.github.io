@@ -12,6 +12,9 @@ So after my internsip at IIT Madras, I became interested in Robotics Vision. I w
 
 This work was also accepted and published at IEEE International Conference on Advances in Computational Intelligence and Communications 2023 with me as the solo author.
 
+![Architecture](/images/arch.jpg)
+
+
 ## Features
 
 - Uses two Video-Direct-Memory-Access channels instead of one two parallelize the read/write process.
