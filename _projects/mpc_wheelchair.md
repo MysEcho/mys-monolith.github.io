@@ -2,7 +2,7 @@
 title: "Model Predictive Control Stack on Autonomous Wheelchair"
 excerpt: "Our custom MPC stack is built on top of IPOPT using the CasADi symbolic framework."
 collection: projects
-permalink: /projects/project_1
+permalink: /projects/mpc-wheelchair/
 date: 2024-10-20
 gif: MPC_final.gif
 category: robotics

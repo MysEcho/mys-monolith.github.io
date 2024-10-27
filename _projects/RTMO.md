@@ -2,7 +2,7 @@
 title: "Real-Time Human Body Pose Estimation using RTMO"
 excerpt: "Body Pose Estimation pipeline using RealSense D455 to be integrated with CrowdSurfer"
 collection: projects
-permalink: /projects/project_4
+permalink: /projects/rtmo/
 date: 2024-10-20
 gif: body_pose.gif
 category: robotics
