@@ -28,5 +28,9 @@ Some super cool facts about me:
     <img src="./images/Husky_2.gif" alt="CrowdSurfer on custom wheelchair for ICRA 2025">
     <figcaption>CrowdSurfer on Husky A200 for ICRA 2025</figcaption>
   </figure>
+  <figure>
+    <img src="./images/Simulation_website.gif" alt="CrowdSurfer simulation on Turtlebot2 for ICRA 2025">
+    <figcaption>CrowdSurfer simulation on Turtlebot2 for ICRA 2025</figcaption>
+  </figure>
 </div>
 
