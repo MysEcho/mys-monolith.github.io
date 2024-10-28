@@ -3,7 +3,7 @@ title: "Model Predictive Control Simulation using Acados"
 excerpt: "This implementation of MPC uses Acados instead of CasADi for a single static obstacle."
 collection: projects
 permalink: /projects/mpc-acados/
-date: 2024-10-20
+date: 2024-04-14
 gif: Acados_MPC.gif
 category: robotics
 ---
