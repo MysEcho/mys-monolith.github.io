@@ -21,7 +21,7 @@ Some super cool facts about me:
 ### Highlights
 <div class="highlights">
   <figure>
-    <img src="{{ '/images/profile_2.png' | relative_url }}" alt="CrowdSurfer on custom wheelchair for ICRA 2025">
+    <img src="/images/profile_2.png" alt="CrowdSurfer on custom wheelchair for ICRA 2025">
     <figcaption>CrowdSurfer on custom wheelchair for ICRA 2025</figcaption>
   </figure>
   <!-- Add more GIFs similarly -->
