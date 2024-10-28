@@ -26,7 +26,7 @@ Some super cool facts about me:
   </figure>
   <figure>
     <img src="./images/Husky_2.gif" alt="CrowdSurfer on custom wheelchair for ICRA 2025">
-    <figcaption>CrowdSurfer on custom wheelchair for ICRA 2025</figcaption>
+    <figcaption>CrowdSurfer on Husky A200 for ICRA 2025</figcaption>
   </figure>
 </div>
 
