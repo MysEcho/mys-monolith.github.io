@@ -1,29 +1,23 @@
-- title: "Digital Portrait of Jeanne Goursaud"
-  image: ./images/paintings/crowd_surfer_wheelchair.gif
-  medium: "Digital Art"
-  year: 2024
+- title: "Portrait of Jeanne Goursaud"
+  image: "/assets/images/paintings/portrait.jpg"
+  alt: "Digital portrait of Jeanne Goursaud"
 
-# - title: "Digital Portrait of Kim Noorda"
-#   image: ./assets/images/paintings/portrait_2.jpg
-#   medium: "Digital Art"
-#   year: 2024
+- title: "Portrait of Kim Noorda"
+  image: "/assets/images/paintings/portrait_2.jpg"
+  alt: "Digital portrait of Kim Noorda"
 
-# - title: "Mai-San from Bunny Girl Senpai"
-#   image: ./assets/images/paintings/mai_san.jpg
-#   medium: "Digital Art"
-#   year: 2024
+- title: "Mai-San from Bunny Girl Senpai"
+  image: "/assets/images/paintings/mai_san.jpg"
+  alt: "Digital art of Mai-San"
 
-# - title: "Digital Portrait of my friend"
-#   image: CC.jpg
-#   medium: "Digital Art"
-#   year: 2024
+- title: "Portrait of my friend"
+  image: "/assets/images/paintings/CC.jpg"
+  alt: "Digital portrait of a friend"
 
-# - title: "Marin-Chan from Dress up Darling"
-#   image: ./assets/images/paintings/dress-up-darling.jpg
-#   medium: "Digital Art"
-#   year: 2024
+- title: "Marin-Chan from Dress up Darling"
+  image: "/assets/images/paintings/dress-up-darling.jpg"
+  alt: "Digital art of Marin-Chan"
 
-# - title: "Oregairu Anime art"
-#   image: ./assets/images/paintings/Oregairu.jpg
-#   medium: "Digital Art"
-#   year: 2024
+- title: "Oregairu Anime art"
+  image: "/assets/images/paintings/Oregairu.jpg"
+  alt: "Digital art from Oregairu"

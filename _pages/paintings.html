@@ -1,0 +1,101 @@
+---
+layout: single
+title: "My Paintings"
+permalink: /paintings/
+author_profile: true
+---
+
+<style>
+  /* Container styles */
+  .gallery-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  /* Grid layout */
+  .instagram-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px;
+    padding: 4px 0;
+  }
+
+  /* Grid item container */
+  .grid-item {
+    position: relative;
+    width: 100%;
+    cursor: pointer;
+  }
+
+  /* Create square aspect ratio */
+  .grid-item::before {
+    content: "";
+    display: block;
+    padding-top: 100%;
+  }
+
+  /* Image styling */
+  .grid-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-color: #f0f0f0; /* Light grey background while loading */
+  }
+
+  /* Loading state */
+  .grid-item.loading {
+    background-color: #f0f0f0;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .instagram-grid {
+      gap: 3px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .instagram-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  /* Optional: Hover effect */
+  .grid-item:hover img {
+    opacity: 0.9;
+  }
+</style>
+
+<div class="gallery-container">
+  <div class="instagram-grid">
+    {% for painting in site.data.paintings %}
+      <div class="grid-item">
+        <img 
+          src="{{ painting.image | relative_url }}" 
+          alt="{{ painting.alt }}"
+          loading="lazy"
+          onerror="this.style.backgroundColor='#f0f0f0'"
+        >
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  // Optional: Add loading state handling
+  document.addEventListener('DOMContentLoaded', function() {
+    const images = document.querySelectorAll('.grid-item img');
+    
+    images.forEach(img => {
+      img.parentElement.classList.add('loading');
+      
+      img.onload = function() {
+        img.parentElement.classList.remove('loading');
+      }
+    });
+  });
+</script>
