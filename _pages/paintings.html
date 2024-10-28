@@ -6,14 +6,6 @@ author_profile: true
 ---
 
 <style>
-  /* Container styles */
-  .gallery-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 1rem;
-  }
-
-  /* Grid layout */
   .instagram-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -21,33 +13,56 @@ author_profile: true
     padding: 4px 0;
   }
 
-  /* Grid item container */
   .grid-item {
     position: relative;
     width: 100%;
-    cursor: pointer;
+    background-color: #f0f0f0;
   }
 
-  /* Create square aspect ratio */
-  .grid-item::before {
+  /* Calculate aspect ratios for each specific image */
+  .grid-item.jeanne-goursaud::before {
     content: "";
     display: block;
-    padding-top: 100%;
+    padding-top: calc((791 / 860) * 100%); /* height/width * 100% */
   }
 
-  /* Image styling */
+  .grid-item.kim-noorda::before {
+    content: "";
+    display: block;
+    padding-top: calc((884 / 840) * 100%);
+  }
+
+  .grid-item.mai-san::before {
+    content: "";
+    display: block;
+    padding-top: calc((1251 / 1449) * 100%);
+  }
+
+  .grid-item.friend::before {
+    content: "";
+    display: block;
+    padding-top: calc((887 / 799) * 100%);
+  }
+
+  .grid-item.marin-chan::before {
+    content: "";
+    display: block;
+    padding-top: calc((1195 / 1697) * 100%);
+  }
+
+  .grid-item.oregairu::before {
+    content: "";
+    display: block;
+    padding-top: calc((707 / 1267) * 100%);
+  }
+
   .grid-item img {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    background-color: #f0f0f0; /* Light grey background while loading */
-  }
-
-  /* Loading state */
-  .grid-item.loading {
+    object-fit: contain; /* Changed to contain to prevent cropping */
     background-color: #f0f0f0;
   }
 
@@ -63,39 +78,36 @@ author_profile: true
       grid-template-columns: repeat(2, 1fr);
     }
   }
-
-  /* Optional: Hover effect */
-  .grid-item:hover img {
-    opacity: 0.9;
-  }
 </style>
 
-<div class="gallery-container">
-  <div class="instagram-grid">
-    {% for painting in site.data.paintings %}
-      <div class="grid-item">
-        <img 
-          src="{{ painting.image | relative_url }}" 
-          alt="{{ painting.alt }}"
-          loading="lazy"
-          onerror="this.style.backgroundColor='#f0f0f0'"
-        >
-      </div>
-    {% endfor %}
+<div class="instagram-grid">
+  <div class="grid-item jeanne-goursaud">
+    <img src="{{ '/assets/images/paintings/jeanne-goursaud.jpg' | relative_url }}" 
+         alt="Digital portrait of Jeanne Goursaud">
+  </div>
+  
+  <div class="grid-item kim-noorda">
+    <img src="{{ '/assets/images/paintings/kim-noorda.jpg' | relative_url }}"
+         alt="Digital portrait of Kim Noorda">
+  </div>
+  
+  <div class="grid-item mai-san">
+    <img src="{{ '/assets/images/paintings/mai-san.jpg' | relative_url }}"
+         alt="Digital art of Mai-San">
+  </div>
+  
+  <div class="grid-item friend">
+    <img src="{{ '/assets/images/paintings/friend.jpg' | relative_url }}"
+         alt="Digital portrait of a friend">
+  </div>
+  
+  <div class="grid-item marin-chan">
+    <img src="{{ '/assets/images/paintings/marin-chan.jpg' | relative_url }}"
+         alt="Digital art of Marin-Chan">
+  </div>
+  
+  <div class="grid-item oregairu">
+    <img src="{{ '/assets/images/paintings/oregairu.jpg' | relative_url }}"
+         alt="Digital art from Oregairu">
   </div>
 </div>
-
-<script>
-  // Optional: Add loading state handling
-  document.addEventListener('DOMContentLoaded', function() {
-    const images = document.querySelectorAll('.grid-item img');
-    
-    images.forEach(img => {
-      img.parentElement.classList.add('loading');
-      
-      img.onload = function() {
-        img.parentElement.classList.remove('loading');
-      }
-    });
-  });
-</script>
