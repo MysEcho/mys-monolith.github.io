@@ -1,33 +1,15 @@
 ---
 title: "Teaching Assistantship"
 collection: teaching
-type: "Undergraduate course"
+type: "Industrial Robotics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Puducherry Technological University, Department of Mechatronics Engineering"
 date: 2023-04-12
 location: "Puducherry, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I acted as the Teaching Assistant of Prof. Dr. R. Elansezhian for the graduate-level "MT 213 Industrial Robotics" course. I helped arranging the course-work and designed several assignments on the topics of Mobile Robotics like Transformation Matrices, Localization, Path Planning Algorithms. 
 
-## Heading 1
+I like discussing new stuff with my friends so we talked at lengths at algorithms like DWA, RRT*, TEB, Voronoi etc. while we already had learnt Dijkstra's shortest path algorithm in our Data-Structures course.
 
-Some introductory text here...
-
-<div class="image-grid">
-  <div class="grid-item">
-    <img src="./images/profile.png" alt="Image 1 description">
-  </div>
-  <div class="grid-item">
-    <img src="./images/profile.png" alt="Image 2 description">
-  </div>
-  <div class="grid-item">
-    <img src="./images/profile.png" alt="Image 3 description">
-  </div>
-  <!-- Add more grid items as needed -->
-</div>
-
-## Heading 2
-
-Continue with your content here...
-
+![Industrial Robotics Teaching](../images/crowd_surfer_wheelchair.gif)
