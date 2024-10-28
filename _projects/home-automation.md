@@ -4,7 +4,7 @@ excerpt: "Prototype for Attendance counter that I made for my classroom, using A
 collection: projects
 permalink: /projects/img-proc/
 date: 2024-10-20
-gif: home_automation.gif
+gif: Home_Automation.gif
 category: electronics
 ---
 
