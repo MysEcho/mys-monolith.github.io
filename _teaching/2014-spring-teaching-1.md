@@ -16,13 +16,13 @@ Some introductory text here...
 
 <div class="image-grid">
   <div class="grid-item">
-    <img src="/images/teaching/image1.jpg" alt="Image 1 description">
+    <img src="./images/profile.png" alt="Image 1 description">
   </div>
   <div class="grid-item">
-    <img src="/images/teaching/image2.jpg" alt="Image 2 description">
+    <img src="./images/profile.png" alt="Image 2 description">
   </div>
   <div class="grid-item">
-    <img src="/images/teaching/image3.jpg" alt="Image 3 description">
+    <img src="./images/profile.png" alt="Image 3 description">
   </div>
   <!-- Add more grid items as needed -->
 </div>
