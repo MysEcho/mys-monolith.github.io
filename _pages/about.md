@@ -24,6 +24,9 @@ Some super cool facts about me:
     <img src="./images/crowd_surfer_wheelchair.gif" alt="CrowdSurfer on custom wheelchair for ICRA 2025">
     <figcaption>CrowdSurfer on custom wheelchair for ICRA 2025</figcaption>
   </figure>
-  <!-- Add more GIFs similarly -->
+  <figure>
+    <img src="./images/Husky_2.gif" alt="CrowdSurfer on custom wheelchair for ICRA 2025">
+    <figcaption>CrowdSurfer on custom wheelchair for ICRA 2025</figcaption>
+  </figure>
 </div>
 
