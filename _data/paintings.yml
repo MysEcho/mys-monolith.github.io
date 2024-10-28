@@ -1,15 +1,15 @@
 - title: "Digital Portrait of Jeanne Goursaud"
-  image: portrait.jpg
+  image: ./assets/images/paintings/portrait.jpg
   medium: "Digital Art"
   year: 2024
 
 - title: "Digital Portrait of Kim Noorda"
-  image: portrait_2.jpg
+  image: ./assets/images/paintings/portrait_2.jpg
   medium: "Digital Art"
   year: 2024
 
 - title: "Mai-San from Bunny Girl Senpai"
-  image: mai_san.jpg
+  image: ./assets/images/paintings/mai_san.jpg
   medium: "Digital Art"
   year: 2024
 
@@ -19,11 +19,11 @@
   year: 2024
 
 - title: "Marin-Chan from Dress up Darling"
-  image: dress-up-darling.jpg
+  image: ./assets/images/paintings/dress-up-darling.jpg
   medium: "Digital Art"
   year: 2024
 
 - title: "Oregairu Anime art"
-  image: Oregairu.jpg
+  image: ./assets/images/paintings/Oregairu.jpg
   medium: "Digital Art"
   year: 2024
