@@ -3,7 +3,7 @@ title: "Multiple Object Tracking using YOLOv8"
 excerpt: "This is an implementation of Open-set multiple object tracking using YOLOv8"
 collection: projects
 permalink: /projects/yolo/
-date: 2024-10-20
+date: 2024-02-25
 gif: YOLO_mot.gif
 category: robotics
 ---

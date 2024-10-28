@@ -3,7 +3,7 @@ title: "CrowdSusrfer on Autonomous Wheelchair(with Dijkstra Global Plan)"
 excerpt: "CrowdSurfer in Action on our Autonomous Wheelchair Prototype with Dijkstra Global Plan"
 collection: projects
 permalink: /projects/crowd_surfer-wheelchair/
-date: 2024-10-20
+date: 2024-09-16
 gif: crowd_surfer_wheelchair.gif
 category: robotics
 ---

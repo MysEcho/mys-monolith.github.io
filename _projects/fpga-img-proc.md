@@ -3,7 +3,7 @@ title: "FPGA-based Dynamic Image Processing using Zynq 7010"
 excerpt: "OV7670 Camera interfaced with Zynq 7010 FPGA to output TMDS data displayed on monitor"
 collection: projects
 permalink: /projects/img-proc/
-date: 2024-10-20
+date: 2023-08-15
 gif: image_proc.gif
 category: electronics
 ---
