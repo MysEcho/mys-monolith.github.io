@@ -1,23 +1,23 @@
 - title: "Portrait of Jeanne Goursaud"
-  image: "./assets/images/paintings/jeanne-goursaud.jpg"
+  image: "/assets/images/paintings/jeanne-goursaud.jpg"
   alt: "Digital portrait of Jeanne Goursaud"
 
 - title: "Portrait of Kim Noorda"
-  image: "./assets/images/paintings/kim-noorda.jpg"
+  image: "/assets/images/paintings/kim-noorda.jpg"
   alt: "Digital portrait of Kim Noorda"
 
 - title: "Mai-San from Bunny Girl Senpai"
-  image: "./assets/images/paintings/mai-san.jpg"
+  image: "/assets/images/paintings/mai-san.jpg"
   alt: "Digital art of Mai-San"
 
 - title: "Portrait of my friend"
-  image: "./assets/images/paintings/friend.jpg"
+  image: "/assets/images/paintings/friend.jpg"
   alt: "Digital portrait of a friend"
 
 - title: "Marin-Chan from Dress up Darling"
-  image: "./assets/images/paintings/marin-chan.jpg"
+  image: "/assets/images/paintings/marin-chan.jpg"
   alt: "Digital art of Marin-Chan"
 
 - title: "Oregairu Anime art"
-  image: "./assets/images/paintings/oregairu.jpg"
+  image: "/assets/images/paintings/oregairu.jpg"
   alt: "Digital art from Oregairu"
