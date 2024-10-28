@@ -2,7 +2,7 @@
 title: "Laser-Based Attendance Monitoring System"
 excerpt: "Prototype for Attendance counter that I made for my classroom, using Arduino"
 collection: projects
-permalink: /projects/img-proc/
+permalink: /projects/home-automation/
 date: 2024-10-20
 gif: Home_Automation.gif
 category: electronics
