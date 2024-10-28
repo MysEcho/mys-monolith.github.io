@@ -29,8 +29,12 @@ Some super cool facts about me:
     <figcaption>CrowdSurfer on Husky A200 for ICRA 2025</figcaption>
   </figure>
   <figure>
-    <img src="./images/MPC_sim.gif" alt="MPC Stack simulation deployed on Wheelchair">
-    <figcaption>MPC Stack simulation deployed on Wheelchair simulation</figcaption>
+    <img src="./images/Simulation_website.gif" alt="CrowdSurfer simulation on Turtlebot2 for ICRA 2025">
+    <figcaption>CrowdSurfer simulation on Turtlebot2 for ICRA 2025</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/MPC_sim.gif" alt="MPC stack simulation deployed on wheelchair">
+    <figcaption>MPC stack simulation deployed on wheelchair</figcaption>
   </figure>
 </div>
 
