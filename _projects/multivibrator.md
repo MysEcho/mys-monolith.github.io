@@ -3,7 +3,7 @@ title: "Astable Multivibrator using BC547 Transistor"
 excerpt: "This is an alternate blinked project that builds upon a classic Astable Multivibrator circuit"
 collection: projects
 permalink: /projects/multivibrator/
-date: 2024-10-20
+date: 2021-02-03
 gif: multivibrator.gif
 category: electronics
 ---
