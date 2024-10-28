@@ -50,7 +50,7 @@ author_profile: true
 <div class="instagram-grid">
   {% for painting in site.data.paintings %}
     <div class="grid-item">
-      <img src="{{ painting.image}}" alt="{{ painting.title }}">
+      <img src="{{ site.baseurl }}/assets/images/paintings/{{ painting.image }}" alt="{{ painting.title }}">
     </div>
   {% endfor %}
 </div>
