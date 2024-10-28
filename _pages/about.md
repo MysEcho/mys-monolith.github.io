@@ -18,3 +18,16 @@ Some super cool facts about me:
 1. When I am not at the lab, you can find me chilling at a cafe sipping on my Iced Latte.
 1. I love travelling to places that have snow-clad mountains.
 
+### Highlights
+<div class="highlights">
+  <figure>
+    <img src="/images/crowd_surfer_wheelchair.gif" alt="CrowdSurfer on custom wheelchair for ICRA 2025">
+    <figcaption>Highlight Caption 1</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/Husky_2.gif" alt="Description of gif 2">
+    <figcaption>Highlight Caption 2</figcaption>
+  </figure>
+  <!-- Add more gifs as needed -->
+</div>
+

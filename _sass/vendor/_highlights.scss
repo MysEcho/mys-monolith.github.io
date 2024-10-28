@@ -1,0 +1,17 @@
+.highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .highlights figure {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .highlights img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
