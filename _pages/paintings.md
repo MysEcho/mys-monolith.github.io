@@ -1,14 +1,56 @@
 ---
-layout: default
-title: Paintings
+layout: single
+title: "My Paintings"
+permalink: /paintings/
+author_profile: true
 ---
 
-<div class="paintings">
-  {% for painting in site.static_files %}
-    {% if painting.path contains 'assets/images/paintings' %}
-      <div class="grid-item">
-        <img src="{{ painting.path | relative_url }}" alt="Painting">
-      </div>
-    {% endif %}
+<style>
+  .instagram-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px;
+    padding: 4px 0;
+  }
+
+  .grid-item {
+    position: relative;
+    width: 100%;
+  }
+
+  .grid-item::before {
+    content: "";
+    display: block;
+    padding-top: 100%;
+  }
+
+  .grid-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 1920px) {
+    .instagram-grid {
+      gap: 3px;
+    }
+  }
+
+  @media (max-width: 1080px) {
+    .instagram-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>
+
+<div class="instagram-grid">
+  {% for painting in site.data.paintings %}
+    <div class="grid-item">
+      <img src="{{ painting.image }}" alt="{{ painting.title }}">
+    </div>
   {% endfor %}
 </div>
