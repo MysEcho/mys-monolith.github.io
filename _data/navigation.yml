@@ -24,6 +24,6 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: Paintings
-    url: /paintings/
+  # - title: Paintings
+  #   url: /paintings/
 
