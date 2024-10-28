@@ -21,11 +21,11 @@ Some super cool facts about me:
 ### Highlights
 <div class="highlights">
   <figure>
-    <img src="{{ '/images/crowd_surfer_wheelchair.gif' | relative_url }}" alt="">
+    <img src="{{ base_path }}/images/crowd_surfer_wheelchair.gif" alt="">
     <figcaption>Highlight Caption 1</figcaption>
   </figure>
   <figure>
-    <img src="{{'/images/Husky_2.gif' | relative_url }}" alt="">
+    <img src="{{ base_path }}/images/Husky_2.gif" alt="">
     <figcaption>Highlight Caption 2</figcaption>
   </figure>
   <!-- Add more gifs as needed -->
