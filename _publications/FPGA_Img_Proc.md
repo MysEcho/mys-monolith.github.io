@@ -11,4 +11,8 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Antareep Singha.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This project has been one of my most challenging ones. I had worked with FPGAs before at IIT Madras and I knew that if I could integrate cheap FPGAs with robotics, deployment will be much easier. The problem that intrigued me while working at IIT Madras was when I saw other PhD students at the OCEAN lab on image processing. Of course they had Zynq Ultrascale and other high end devices but I wanted to start off where I had left. So, I used all of my stipend from IIT Madras and purchased a Zynq 7010 device. 
+
+Reading FPGA literature, I realized that most architectures used clocks that were Digilent IPs, including PLLs. A great starting novelty brownie point for me was identifying that a custom clock tailored specifically to adjust to run-time frequency fluctuations. I created the logic for a Dynamic Clock Generator using VHDL. Another area of novelty was the fact that Video Buffer read/write operation happened serially which was a bottleneck. I parallelized it with two Video Direct-Memory-Access channels and voila! My very own Image Processing System was ready.
+
+I documented my project and sent it to the IEEE International Conference of Advances in Computational Intelligence and Communication 2023, upon being advised by my professor. Two months later, I got the acceptance and I had my first chance at presenting my work and having a publication.
