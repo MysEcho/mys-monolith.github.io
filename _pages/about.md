@@ -33,8 +33,12 @@ In the future, I would like to work on Social Navigation for Mobile Robots but w
     <figcaption>MPC stack simulation deployed on wheelchair</figcaption>
   </figure>
   <figure>
-    <img src="./images/jackal.gif" alt="CrowdSurfer running on Clearpath Jackal in BARN World 193">
-    <figcaption>CrowdSurfer running on Clearpath Jackal in BARN World 193</figcaption>
+    <img src="./images/jackal.gif" alt="CrowdSurfer running on Clearpath Jackal in BARN World 38">
+    <figcaption>CrowdSurfer running on Clearpath Jackal in BARN World 38</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/turtlebot.gif" alt="CrowdSurfer running on Turtlebot in BARN World 193">
+    <figcaption>CrowdSurfer running on Turtlebot in BARN World 193</figcaption>
   </figure>
 </div>
 
