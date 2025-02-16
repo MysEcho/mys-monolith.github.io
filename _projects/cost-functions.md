@@ -1,6 +1,6 @@
 ---
-title: "CrowdSurfer mapped to scene-specific cost functions for Social Navigation"
-excerpt: "Learning to map CrowdSurfer's observation spcae to a social navigation rule set"
+title: "Learning the input space of the ego-agent for Social Navigation using cost-guided optimization"
+excerpt: "Learning to map CrowdSurfer's observation spcae to a social navigation rule set that are in-turn mapped to scene-specific cost functions."
 collection: projects
 permalink: /projects/IROS25/
 date: 2025-01-28
