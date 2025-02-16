@@ -4,7 +4,7 @@ excerpt: "Learning to map CrowdSurfer's observation spcae to a social navigation
 collection: projects
 permalink: /projects/IROS25/
 date: 2025-01-28
-gif: group_interaction_behavior_comparison.gif
+gif: group_interaction_behavior.gif
 category: robotics
 ---
 
