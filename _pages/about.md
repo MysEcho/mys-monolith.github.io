@@ -34,6 +34,13 @@ In the future, I would like to work on Social Navigation for Mobile Robots but w
   </figure>
 </div>
 
+## CrowdSurfer for ICRA 2025 BARN Challenge
+
+<figure>
+    <img src="./images/jackal.gif" alt="CrowdSurfer running on Clearpath Jackal in BARN World 193">
+    <figcaption>CrowdSurfer running on Clearpath Jackal in BARN World 193</figcaption>
+  </figure>
+
 Some super cool facts about me:
 ===============================
 1. I used to be a U-14 State Level Cricket Player and I have played at "Eden Gardens: The Mecca of Indian Cricket."
