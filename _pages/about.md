@@ -32,14 +32,11 @@ In the future, I would like to work on Social Navigation for Mobile Robots but w
     <img src="./images/MPC_sim.gif" alt="MPC stack simulation deployed on wheelchair">
     <figcaption>MPC stack simulation deployed on wheelchair</figcaption>
   </figure>
-</div>
-
-## CrowdSurfer for ICRA 2025 BARN Challenge
-
-<figure>
+  <figure>
     <img src="./images/jackal.gif" alt="CrowdSurfer running on Clearpath Jackal in BARN World 193">
     <figcaption>CrowdSurfer running on Clearpath Jackal in BARN World 193</figcaption>
   </figure>
+</div>
 
 Some super cool facts about me:
 ===============================
