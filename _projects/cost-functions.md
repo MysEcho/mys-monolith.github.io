@@ -46,13 +46,13 @@ C_{yielding}
 \cdot \max\bigl(0, v_{j,\text{rel}} - v_{\text{threshold}}\bigr)
 $$
 
-- **Proximity Penalty** \(\frac{1}{d_j + \epsilon}\):  
+- **Proximity Penalty** $$\frac{1}{d_j + \epsilon}$$:  
   Closer obstacles contribute more to the cost, encouraging the agent to yield when obstacles are nearby.
 
-- **Relative Velocity Contribution** \(\max(0, v_{j,\text{rel}} - v_{\text{threshold}})\):  
+- **Relative Velocity Contribution** $$\max(0, v_{j,\text{rel}} - v_{\text{threshold}})$$:  
   The cost increases only if the relative velocity exceeds a predefined threshold \(v_{\text{threshold}}\). This ensures the agent responds to dynamic obstacles with significant motion differences.
 
-- **Priority Weighting** \(\bigl(1 - P_{\text{priority}}(j)\bigr)\):  
+- **Priority Weighting** $$\bigl(1 - P_{\text{priority}}(j)\bigr)$$:  
   Obstacles with higher priority contribute less to the cost, encouraging the agent to yield to them.
 
 ---
