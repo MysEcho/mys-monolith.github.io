@@ -8,7 +8,7 @@ gif: group_interaction_behavior.gif
 category: robotics
 ---
 
-My work for IROS 2025 is to improve CrowdSurfer and integrate social behavior into it. This has been done by training a **Vision Transformer(ViT)** based classifier that maps the observation space of CrowdSurfer to a set of socially-compliant rules. The observation space includes:
+My work for **IROS 2025** is to improve CrowdSurfer and integrate social behavior into it. This has been done by training a **Vision Transformer(ViT)** based classifier that maps the observation space of CrowdSurfer to a set of socially-compliant rules. The observation space includes:
  
 - Occupancy maps  
 - Dynamic obstacle positions  
@@ -50,7 +50,7 @@ $$
   Closer obstacles contribute more to the cost, encouraging the agent to yield when obstacles are nearby.
 
 - **Relative Velocity Contribution** $$\max(0, v_{j,\text{rel}} - v_{\text{threshold}})$$:  
-  The cost increases only if the relative velocity exceeds a predefined threshold \(v_{\text{threshold}}\). This ensures the agent responds to dynamic obstacles with significant motion differences.
+  The cost increases only if the relative velocity exceeds a predefined threshold $$v_{\text{threshold}}$$. This ensures the agent responds to dynamic obstacles with significant motion differences.
 
 - **Priority Weighting** $$\bigl(1 - P_{\text{priority}}(j)\bigr)$$:  
   Obstacles with higher priority contribute less to the cost, encouraging the agent to yield to them.
