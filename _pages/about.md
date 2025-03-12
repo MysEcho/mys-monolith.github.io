@@ -37,10 +37,10 @@ In the future, I would like to work on Social Navigation for Mobile Robots but w
 My time at Robotics Research Center(RRC):
 ===============================
 <figure>
-  <img src="./images/RRC_1.jpg" alt="RRC Team">
+  <img src="./images/RRC_1.jpeg" alt="RRC Team">
 </figure>
 <figure>
-  <img src="./images/RRC_2.jpg" alt="Wheelchair Team">
+  <img src="./images/RRC_2.jpeg" alt="Wheelchair Team">
 </figure>
 
 
