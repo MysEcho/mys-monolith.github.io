@@ -32,15 +32,17 @@ In the future, I would like to work on Social Navigation for Mobile Robots but w
     <img src="./images/MPC_sim.gif" alt="MPC stack simulation deployed on wheelchair">
     <figcaption>MPC stack simulation deployed on wheelchair</figcaption>
   </figure>
-  <figure>
-    <img src="./images/jackal.gif" alt="CrowdSurfer running on Clearpath Jackal in BARN World 38">
-    <figcaption>CrowdSurfer running on Clearpath Jackal in BARN World 38</figcaption>
-  </figure>
-  <figure>
-    <img src="./images/turtlebot.gif" alt="CrowdSurfer running on Turtlebot in BARN World 193">
-    <figcaption>CrowdSurfer running on Turtlebot in BARN World 193</figcaption>
-  </figure>
 </div>
+
+My time at Robotics Research Center(RRC):
+===============================
+<figure>
+  <img src="./images/RRC_1.jpg" alt="RRC Team">
+</figure>
+<figure>
+  <img src="./images/RRC_2.jpg" alt="Wheelchair Team">
+</figure>
+
 
 Some super cool facts about me:
 ===============================
@@ -49,5 +51,7 @@ Some super cool facts about me:
 1. I am also a very good chef and I like cooking Chinese Food. I also have a separate [Instagram Page for cooking](https://www.instagram.com/bengalicious018/).
 1. When I am not at the lab, you can find me chilling at a cafe sipping on my Iced Latte.
 1. I love hiking and talking about businesses and start-ups.
+
+
 
 
