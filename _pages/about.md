@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 
-I am a Robotics Researcher and I work mostly with **Path Planning Algorithms**. Currently, I am working as a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)**. Previously, I have worked extensively with Reconfigurable Computing and Embedded Systems. I love making robots and giving them a brain. 
-In the future, I would like to work on Social Navigation for Mobile Robots but with condition to a lot of social cues including both perceptive and semantic. Looking ahead, my ultimate goal is to develop and deploy autonomous robots capable of learning to coexist harmoniously with humans. I envision a future where robots are not just tools, but collaborative partners in our daily lives, enhancing human capabilities and improving quality of life.
-<figure>
+I am a Robotics Researcher interested in **Deep Learning and Computer Vision**. I will be attending **University of California, San Diego** starting Fall 2025. Currently, I am a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I work with **path planning algorithms**. In the future, I would like to work on Social Navigation for Mobile Robots and deploy them in public spaces. I envision a future where robots are not just tools, but collaborative partners in our daily lives, enhancing human capabilities and improving quality of life.
+<!-- <figure>
   <img src="./images/acceptance.jpg" alt="Acceptance announcement">
-</figure>
+</figure> -->
 
 ### Highlights
 <div class="highlights">
