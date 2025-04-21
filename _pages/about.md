@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Robotics Researcher interested in **Deep Learning and Computer Vision**. I will be attending **University of California, San Diego** starting Fall 2025. Currently, I am a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I work with **path planning algorithms**. In the future, I would like to work on Social Navigation for Mobile Robots and deploy them in public spaces. I envision a future where robots are not just tools, but collaborative partners in our daily lives, enhancing human capabilities and improving quality of life.
+I am a Robotics Researcher interested in **Deep Learning and Computer Vision**. I will be attending **Nanyang Technological University, Singapore** starting August 2025. Currently, I am a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I work with **path planning algorithms**. In the future, I would like to work on Social Navigation for Mobile Robots and deploy them in public spaces. I envision a future where robots are not just tools, but collaborative partners in our daily lives, enhancing human capabilities and improving quality of life.
 <!-- <figure>
   <img src="./images/acceptance.jpg" alt="Acceptance announcement">
 </figure> -->
