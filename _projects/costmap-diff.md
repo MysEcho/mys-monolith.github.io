@@ -4,7 +4,7 @@ excerpt: "Learning scene representations to condition a Diffusion policy to gene
 collection: projects
 permalink: /projects/ICRA26/
 date: 2025-04-28
-gif: costmap_diffusion_arch.jpg
+gif: costmap_diffusion_arch.gif
 category: robotics
 ---
 
