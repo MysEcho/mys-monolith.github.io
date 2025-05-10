@@ -1,5 +1,5 @@
 ---
-title: "Costmap-Diffusion: Diffusing Costmap Priors for Social Navigation."
+title: "Costmap-Diffusion: Diffusing Latent Costmap Priors for Social Navigation."
 excerpt: "Learning scene representations to condition a Diffusion policy to generate socially-compliant costmaps."
 collection: projects
 permalink: /projects/ICRA26/
