@@ -12,5 +12,5 @@ I acted as the Teaching Assistant of Prof. Dr. R. Elansezhian for the graduate-l
 
 I like discussing new stuff with my friends so we talked at lengths at algorithms like DWA, RRT*, TEB, Voronoi etc. while we already had learnt Dijkstra's shortest path algorithm in our Data-Structures course.
 
-Here's a short glimpse of me teaching Robot Transformations. (I do not have the full video.) 
+Here's a short glimpse of me teaching Coordinate Transforms. (I do not have the full video.) 
 ![Industrial Robotics Teaching](../images/teaching.gif)
