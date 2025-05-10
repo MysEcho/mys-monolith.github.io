@@ -10,7 +10,7 @@ category: robotics
 
 This project is my solo effort towards **IEEE ICRA 2026**. It presents a **two-stage costmap prediction architecture** designed for **social navigation** in dynamic human environments. The architecture includes an **Autoencoder** and a **Conditional Diffusion Model** to generate future costmaps from past RGB image observations.
 
-![Model Architecture](~/home/mysecho/Projects/mys-monolith.github.io/images/costmap_diffusion_arch.jpg)
+![Model Architecture](/home/mysecho/Projects/mys-monolith.github.io/images/costmap_diffusion_arch.jpg)
 
 ---
 
