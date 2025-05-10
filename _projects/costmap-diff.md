@@ -4,13 +4,11 @@ excerpt: "Learning scene representations to condition a Diffusion policy to gene
 collection: projects
 permalink: /projects/ICRA26/
 date: 2025-04-28
-gif: costmap_diffusion_arch.gif
+gif: costmap_diffusion_arch.jpg
 category: robotics
 ---
 
 This project is my solo effort towards **IEEE ICRA 2026**. It presents a **two-stage costmap prediction architecture** designed for **social navigation** in dynamic human environments. The architecture includes an **Autoencoder** and a **Conditional Diffusion Model** to generate future costmaps from past RGB image observations.
-
-![Model Architecture](/images/costmap_diffusion_arch.jpg)
 
 ---
 
