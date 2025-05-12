@@ -36,6 +36,9 @@ I am a Robotics Researcher interested in **Deep Learning and Computer Vision**. 
 My time at Robotics Research Center(RRC):
 ===============================
 <figure>
+  <img src="./images/RRC.jpeg" alt="Wheelchair Team">
+</figure>
+<figure>
   <img src="./images/RRC_1.jpeg" alt="RRC Team">
 </figure>
 <figure>
