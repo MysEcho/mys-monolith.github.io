@@ -18,3 +18,7 @@ PRIEST generated its own trajectory distribution before sampling from it and the
 We collected a dataset of more than 100 rosbags inside the IIIT Hyderabad campus where we moved our wheelchair prototype in a dense crowd. We trained the VQVAE using Behavior Cloning and conditioned its PixelCNN based Sampler using conditions like agent position, velocities and may more. Finally, PRIEST was provided with a pool of multi-modal trajectories and it proved to be much more robust as it beat vanilla PRIEST by more than 40%. We also beat the DRL-VO (T-RO paper) paper by a signigicant margin.
 
 I spent some of the best times of my life while collaboratively working, brainstorming and testing our pipeline. It is very difficult for me to forget the countless nights I spent in the lab and even sometimes we would sleep under our desk. 
+
+<figure>
+  <img src="./images/ICRA_image.jpeg" alt="IEEE ICRA 2025 Poster Session">
+</figure>
