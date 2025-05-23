@@ -20,5 +20,5 @@ We collected a dataset of more than 100 rosbags inside the IIIT Hyderabad campus
 I spent some of the best times of my life while collaboratively working, brainstorming and testing our pipeline. It is very difficult for me to forget the countless nights I spent in the lab and even sometimes we would sleep under our desk. 
 
 <figure>
-  <img src="./images/ICRA_image.jpeg" alt="IEEE ICRA 2025 Poster Session">
+  <img src="../images/ICRA_image.jpeg" alt="IEEE ICRA 2025 Poster Session">
 </figure>
