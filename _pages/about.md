@@ -35,8 +35,6 @@ I am a Robotics Researcher at **Nanyang Technological University, Singapore** in
 
 My time at Robotics Research Center(RRC):
 ===============================
-My time at Robotics Research Center(RRC):
-===============================
 <div class="rrc-gallery">
   <figure>
     <img src="./images/RRC.jpeg" alt="Wheelchair Team">
@@ -48,6 +46,10 @@ My time at Robotics Research Center(RRC):
   </figure>
   <figure>
     <img src="./images/RRC_2.jpeg" alt="Wheelchair Team">
+    <figcaption>Wheelchair Team</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/chillis-dinner.jpeg" alt="Wheelchair Team">
     <figcaption>Wheelchair Team</figcaption>
   </figure>
 </div>
