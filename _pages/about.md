@@ -38,19 +38,19 @@ My time at Robotics Research Center(RRC):
 <div class="rrc-gallery">
   <figure>
     <img src="./images/RRC.jpeg" alt="Wheelchair Team">
-    <figcaption>Wheelchair Team</figcaption>
+    <figcaption></figcaption>
   </figure>
   <figure>
     <img src="./images/RRC_1.jpeg" alt="RRC Team">
-    <figcaption>RRC Team</figcaption>
+    <figcaption></figcaption>
   </figure>
   <figure>
     <img src="./images/RRC_2.jpeg" alt="Wheelchair Team">
-    <figcaption>Wheelchair Team</figcaption>
+    <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="./images/chillis-dinner.jpeg" alt="Wheelchair Team">
-    <figcaption>Wheelchair Team</figcaption>
+    <img src="./images/chillis-dinner.jpg" alt="Wheelchair Team">
+    <figcaption></figcaption>
   </figure>
 </div>
 
