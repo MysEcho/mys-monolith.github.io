@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publications/MultiCrowdSurfer
 excerpt: ''
-date: 2025-11-13
+date: 2026-01-17
 venue: 'Accepted at AAAI Workshop on Multi-Agent Path Finding'
 slidesurl: ''
 paperurl: ''

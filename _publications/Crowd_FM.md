@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publications/CrowdFM
 excerpt: ''
-date: 2025-09-15
-venue: 'Under Review - IEEE ICRA 2026'
+date: 2026-06-01
+venue: 'Under Review - IEEE International Conference on Robotics and Automation(ICRA)'
 slidesurl: ''
 paperurl: ''
 citation: 'Antareep Singha, Laksh Nanwani, Mathai Mathew P., Samkit Jain, P.T. Singamaneni, Arun Kumar Singh, K. Madhava Krishna.'
