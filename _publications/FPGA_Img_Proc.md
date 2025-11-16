@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/FPGA
 excerpt: ''
 date: 2023-12-13
-venue: 'Published at IEEE ICACIC'
+venue: 'Published at IEEE International Conference on Advancements in Computational Intelligence and Communication(ICACIC)'
 slidesurl: 'https://ieeexplore.ieee.org/document/10435029'
 paperurl: 'https://ieeexplore.ieee.org/document/10435029'
 citation: 'Antareep Singha.'

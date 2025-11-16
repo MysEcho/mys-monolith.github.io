@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Robotics Researcher interested in **Deep Learning and Computer Vision**. I will be attending **Nanyang Technological University, Singapore** starting August 2025. Previously, I was a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I worked extensively with **path-planning algorithms**. In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. I envision a future where robots are not just tools, but collaborative partners in our daily lives, enhancing human capabilities and improving quality of life.
+I am a Robotics Researcher at **Nanyang Technological University, Singapore** interested in **Deep Learning and Computer Vision**. Currently I am working at the **Algorithmic Robotics Group(ARG) @ NTU Sg** on novel Embodied AI and Computer Vision problems. Previously, I was a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I worked extensively with **path-planning algorithms** using generative modeling and optimal control. In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. I envision a future where robots are not just tools, but collaborative partners in our daily lives, enhancing human capabilities and improving quality of life.
 <!-- <figure>
   <img src="./images/acceptance.jpg" alt="Acceptance announcement">
 </figure> -->
@@ -35,16 +35,22 @@ I am a Robotics Researcher interested in **Deep Learning and Computer Vision**. 
 
 My time at Robotics Research Center(RRC):
 ===============================
-<figure>
-  <img src="./images/RRC.jpeg" alt="Wheelchair Team">
-</figure>
-<figure>
-  <img src="./images/RRC_1.jpeg" alt="RRC Team">
-</figure>
-<figure>
-  <img src="./images/RRC_2.jpeg" alt="Wheelchair Team">
-</figure>
-
+My time at Robotics Research Center(RRC):
+===============================
+<div class="rrc-gallery">
+  <figure>
+    <img src="./images/RRC.jpeg" alt="Wheelchair Team">
+    <figcaption>Wheelchair Team</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/RRC_1.jpeg" alt="RRC Team">
+    <figcaption>RRC Team</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/RRC_2.jpeg" alt="Wheelchair Team">
+    <figcaption>Wheelchair Team</figcaption>
+  </figure>
+</div>
 
 Some super cool facts about me:
 ===============================

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/CrowdSurfer
 excerpt: ''
 date: 2025-05-05
-venue: 'Accepted at IEEE ICRA'
+venue: 'Accepted at IEEE International Conference on Robotics and Automation(ICRA)'
 slidesurl: 'https://smart-wheelchair-rrc.github.io/CrowdSurfer-webpage/'
 paperurl: 'https://smart-wheelchair-rrc.github.io/CrowdSurfer-webpage/CrowdSurfer.pdf'
 citation: 'Naman Kumar*, Antareep Singha*, Laksh Nanwani*, Dhruv Potdar, Tarun R, Fatemeh Rastgar, Simon Idoko, Arun Kumar Singh, K. Madhava Krishna.'
