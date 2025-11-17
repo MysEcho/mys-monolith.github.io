@@ -61,10 +61,11 @@ News:
 1. **13/11/2025:** My work **Multi-CrowdSurfer** got accepted to the **7th International Woorkshop on MAPF, AAAI 2026, Singapore.**
 2. **27/10/2025:** Attended **ROSCon** 2025 in Singapore.
 3. **06/10/2025:** Acting as a **reviewer** for IEEE ICRA 2026.
-5. **16/09/2025:** Submitted **Crowd-FM** to IEEE ICRA 2026.
+4. **16/09/2025:** Submitted **Crowd-FM** to IEEE ICRA 2026. This marked my final collaboration with RRC, IIITH - a place that has taught me everything I know about Robotics.
 5. **11/08/2025:** Joined **NTU Singapore** for graduate studies.
-6. **22/05/2025:** Presented **CrowdSurfer** at IEEE ICRA 2025 in Atlanta, Georgia.
-7. **29/01/2025:** **CrowdSurfer** got accepted to IEEE ICRA 2025.  
+6. **04/07/2025:** Joined **Algorithmic Robotics Group** at NTU Singapore under Prof. Yoonchang Sung.
+7. **22/05/2025:** Presented **CrowdSurfer** at IEEE ICRA 2025 in Atlanta, Georgia.
+8. **29/01/2025:** **CrowdSurfer** got accepted to IEEE ICRA 2025.  
 
 
 <!-- 1. I used to be a U-14 State Level Cricket Player and I have played at "Eden Gardens: The Mecca of Indian Cricket."
