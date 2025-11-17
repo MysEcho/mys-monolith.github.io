@@ -54,14 +54,21 @@ My time at Robotics Research Center(RRC):
   </figure>
 </div>
 
-Some super cool facts about me:
+
+News:
 ===============================
-1. I used to be a U-14 State Level Cricket Player and I have played at "Eden Gardens: The Mecca of Indian Cricket."
+
+1. **13/11/2025:** My work **Multi-CrowdSurfer** got accepted to the **7th International Woorkshop on MAPF, AAAI 2026, Singapore.**
+2. **27/10/2025:** Attended **ROSCon** 2025 in Singapore.
+3. **06/10/2025:** Acting as a **reviewer** for IEEE ICRA 2026.
+5. **16/09/2025:** Submitted **Crowd-FM** to IEEE ICRA 2026.
+5. **11/08/2025:** Joined **NTU Singapore** for graduate studies.
+6. **22/05/2025:** Presented **CrowdSurfer** at IEEE ICRA 2025 in Atlanta, Georgia.
+7. **29/01/2025:** **CrowdSurfer** got accepted to IEEE ICRA 2025.  
+
+
+<!-- 1. I used to be a U-14 State Level Cricket Player and I have played at "Eden Gardens: The Mecca of Indian Cricket."
 1. I have loved drawing since the age of five. You can find most of my paintings in the Paintings section and more on my [Instagram channel](https://www.instagram.com/antareepsingha/).
 1. I am also a very good chef and I like cooking Chinese Food. I also have a separate [Instagram Page for cooking](https://www.instagram.com/bengalicious018/).
 1. When I am not at the lab, you can find me chilling at a cafe sipping on my Iced Latte.
-1. I love hiking and talking about businesses and start-ups.
-
-
-
-
+1. I love hiking and talking about businesses and start-ups. -->
