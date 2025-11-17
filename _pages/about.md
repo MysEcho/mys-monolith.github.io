@@ -65,7 +65,8 @@ News:
 5. **11/08/2025:** Joined **NTU Singapore** for graduate studies.
 6. **04/07/2025:** Joined **Algorithmic Robotics Group** at NTU Singapore under Prof. Yoonchang Sung.
 7. **22/05/2025:** Presented **CrowdSurfer** at IEEE ICRA 2025 in Atlanta, Georgia.
-8. **29/01/2025:** **CrowdSurfer** got accepted to IEEE ICRA 2025.  
+8. **29/01/2025:** **CrowdSurfer** got accepted to IEEE ICRA 2025.
+9. **02/02/2024:** Joined Robotics Research Center(RRC), IIIT Hyderabad, in the final semester of my undergraduate studies.
 
 
 <!-- 1. I used to be a U-14 State Level Cricket Player and I have played at "Eden Gardens: The Mecca of Indian Cricket."
