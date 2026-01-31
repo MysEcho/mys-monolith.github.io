@@ -58,16 +58,17 @@ My time at Robotics Research Center(RRC):
 News:
 ===============================
 
-1. **13/11/2025:** My work **Multi-CrowdSurfer** got accepted to the **7th International Workshop on MAPF, AAAI 2026, Singapore.**
-2. **27/10/2025:** Attended **ROSCon** 2025 in Singapore.
-3. **06/10/2025:** Acting as a **reviewer** for IEEE ICRA 2026.
-4. **16/09/2025:** Submitted **a work** to a major conference. This marked my final collaboration with RRC, IIITH - a place that has taught me everything I know about Robotics.
-5. **11/08/2025:** Joined **NTU Singapore** for graduate studies.
-6. **04/07/2025:** Joined **Algorithmic Robotics Group** at NTU Singapore under Prof. Yoonchang Sung.
-7. **22/05/2025:** Presented **CrowdSurfer** at IEEE ICRA 2025 in Atlanta, Georgia.
-8. **29/01/2025:** **CrowdSurfer** got accepted to IEEE ICRA 2025.
-9. **01/06/2024:** Graduated from Puducherry Technological University with a B. Tech. in Mechatronics. Started full-time role as Research Associate at RRC.
-10. **02/02/2024:** Joined Robotics Research Center(RRC), IIIT Hyderabad, in the final semester of my undergraduate studies.
+1. **31/01/2026:** **Crowd-FM** got accepted to **IEEE ICRA 2026**.
+2. **13/11/2025:** My work **Multi-CrowdSurfer** got accepted to the **7th International Workshop on MAPF, AAAI 2026, Singapore.**
+3. **27/10/2025:** Attended **ROSCon** 2025 in Singapore.
+4. **06/10/2025:** Acting as a **reviewer** for IEEE ICRA 2026.
+5. **16/09/2025:** Submitted **Crowd-FM** to a IEEE ICRA 2026. This marked my final collaboration with RRC, IIITH - a place that has taught me everything I know about Robotics.
+6. **11/08/2025:** Joined **NTU Singapore** for graduate studies.
+7. **04/07/2025:** Joined **Algorithmic Robotics Group** at NTU Singapore under Prof. Yoonchang Sung.
+8. **22/05/2025:** Presented **CrowdSurfer** at IEEE ICRA 2025 in Atlanta, Georgia.
+9. **29/01/2025:** **CrowdSurfer** got accepted to **IEEE ICRA 2025**.
+10. **01/06/2024:** Graduated from Puducherry Technological University with a B. Tech. in Mechatronics. Started full-time role as Research Associate at RRC.
+11. **02/02/2024:** Joined Robotics Research Center(RRC), IIIT Hyderabad, in the final semester of my undergraduate studies.
 
 
 <!-- 1. I used to be a U-14 State Level Cricket Player and I have played at "Eden Gardens: The Mecca of Indian Cricket."
