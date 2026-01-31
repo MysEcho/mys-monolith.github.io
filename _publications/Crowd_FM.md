@@ -1,5 +1,5 @@
 ---
-title: "Trajectory Planner"
+title: "Crowd-FM: Learned Optimal Selection of Conditional Flow Matching-generated Trajectories for Crowd Navigation"
 collection: publications
 category: conferences
 permalink: /publications/CrowdFM
