@@ -8,10 +8,8 @@ redirect_from:
 ---
 
 
-I am a Robotics Researcher at **Nanyang Technological University, Singapore** interested in **Deep Learning and Computer Vision**. Currently I am working at the **Algorithmic Robotics Group(ARG) @ NTU Sg** on novel Embodied AI and Computer Vision problems. Previously, I was a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I worked extensively with **path-planning algorithms** using generative modeling and optimal control. In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. I envision a future where robots are not just tools, but collaborative partners in our daily lives, enhancing human capabilities and improving quality of life.
-<!-- <figure>
-  <img src="./images/acceptance.jpg" alt="Acceptance announcement">
-</figure> -->
+I am a Robotics Researcher at **Nanyang Technological University, Singapore** interested in **Deep Learning and Computer Vision**. Currently I am working at the **Algorithmic Robotics Group(ARG) @ NTU** on Embodied Intelligence. Previously, I was a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I worked on **path-planning** in densely crowded social spaces . In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. Join me in my journey and stay tuned for some cool updates!
+
 
 ### Highlights
 <div class="highlights">
@@ -33,7 +31,7 @@ I am a Robotics Researcher at **Nanyang Technological University, Singapore** in
   </figure>
 </div>
 
-My time at Robotics Research Center(RRC):
+Some moments from journey so far:
 ===============================
 <div class="rrc-gallery">
   <figure>
@@ -49,7 +47,7 @@ My time at Robotics Research Center(RRC):
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="./images/chillis-dinner.jpg" alt="Wheelchair Team">
+    <img src="./images/roscon.jpg" alt="ROSCon">
     <figcaption></figcaption>
   </figure>
 </div>
