@@ -56,7 +56,7 @@ Some moments from journey so far:
 News:
 ===============================
 
-1. **31/01/2026:** **Crowd-FM** got accepted to **IEEE ICRA 2026**.
+1. **31/01/2026:** **Crowd-FM** got accepted to **IEEE ICRA 2026**. See you in Vienna!
 2. **13/11/2025:** My work **Multi-CrowdSurfer** got accepted to the **7th International Workshop on MAPF, AAAI 2026, Singapore.**
 3. **27/10/2025:** Attended **ROSCon** 2025 in Singapore.
 4. **06/10/2025:** Acting as a **reviewer** for IEEE ICRA 2026.
