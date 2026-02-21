@@ -31,7 +31,7 @@ I am a Robotics Researcher at **Nanyang Technological University, Singapore** in
   </figure>
 </div>
 
-Some moments from journey so far:
+Some moments from my journey so far:
 ===============================
 <div class="rrc-gallery">
   <figure>
