@@ -51,7 +51,7 @@ Some moments from my journey so far:
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="./images/arg.jpg" alt="ROSCon">
+    <img src="./images/arg_portrait.jpg" alt="ROSCon">
     <figcaption></figcaption>
   </figure>
   <figure>
