@@ -26,8 +26,8 @@ I am a Robotics Researcher at **Nanyang Technological University, Singapore** in
     <figcaption>Crowd-FM on Pioneer 3-DX for ICRA 2026(indoors)</figcaption>
   </figure>
   <figure>
-    <img src="./images/MPC_sim.gif" alt="MPC stack simulation deployed on wheelchair">
-    <figcaption>MPC stack simulation deployed on wheelchair</figcaption>
+    <img src="./images/p3dx_outdoors.gif" alt="Crowd-FM on Pioneer 3-DX for ICRA 2026">
+    <figcaption>Crowd-FM on Pioneer 3-DX for ICRA 2026(outdoors)</figcaption>
   </figure>
 </div>
 
@@ -44,6 +44,14 @@ Some moments from my journey so far:
   </figure>
   <figure>
     <img src="./images/RRC_2.jpeg" alt="Wheelchair Team">
+    <figcaption></figcaption>
+  </figure>
+  <figure>
+    <img src="./images/chillis-dinner.jpg" alt="ROSCon">
+    <figcaption></figcaption>
+  </figure>
+  <figure>
+    <img src="./images/arg.jpg" alt="ROSCon">
     <figcaption></figcaption>
   </figure>
   <figure>
