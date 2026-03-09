@@ -22,8 +22,8 @@ I am a Robotics Researcher at **Nanyang Technological University, Singapore** in
     <figcaption>CrowdSurfer on Husky A200 for ICRA 2025</figcaption>
   </figure>
   <figure>
-    <img src="./images/Simulation_website.gif" alt="CrowdSurfer simulation on Turtlebot2 for ICRA 2025">
-    <figcaption>CrowdSurfer simulation on Turtlebot2 for ICRA 2025</figcaption>
+    <img src="./images/p3dx_speed.gif" alt="Crowd-FM on Pioneer 3-DX for ICRA 2026">
+    <figcaption>Crowd-FM on Pioneer 3-DX for ICRA 2026(indoors)</figcaption>
   </figure>
   <figure>
     <img src="./images/MPC_sim.gif" alt="MPC stack simulation deployed on wheelchair">
