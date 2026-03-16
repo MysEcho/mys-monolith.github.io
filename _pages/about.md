@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Robotics Researcher at **Nanyang Technological University, Singapore** interested in **Deep Learning and Computer Vision**. Currently I am working at the **Algorithmic Robotics Group(ARG) @ NTU** on Embodied Intelligence. Previously, I was a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I worked on **path-planning** in densely crowded social spaces . In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. Join me in my journey and stay tuned for some cool updates!
+I am a Robotics Researcher at **Nanyang Technological University, Singapore** interested in **Deep Learning and Computer Vision**. Currently I am working at the [Algorithmic Robotics Group(ARG) @ NTU](https://algrobogroup.github.io/) on Embodied Intelligence. Previously, I was a Research Assistant at **Robotics Research Center (RRC), International Institute of Information Technology (IIIT H)** where I worked on **path-planning** in densely crowded social spaces . In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. Join me in my journey and stay tuned for some cool updates!
 
 
 ### Highlights
