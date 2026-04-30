@@ -64,17 +64,18 @@ Some moments from my journey so far:
 News:
 ===============================
 
-1. **31/01/2026:** **Crowd-FM** got accepted to **IEEE ICRA 2026**. See you in Vienna!
-2. **13/11/2025:** My work **Multi-CrowdSurfer** got accepted to the **7th International Workshop on MAPF, AAAI 2026, Singapore.**
-3. **27/10/2025:** Attended **ROSCon** 2025 in Singapore.
-4. **06/10/2025:** Acting as a **reviewer** for IEEE ICRA 2026.
-5. **16/09/2025:** Submitted **Crowd-FM** to a IEEE ICRA 2026. This marked my final collaboration with RRC, IIITH - a place that has taught me everything I know about Robotics.
-6. **11/08/2025:** Joined **NTU Singapore** for graduate studies.
-7. **04/07/2025:** Joined **Algorithmic Robotics Group** at NTU Singapore under Prof. Yoonchang Sung.
-8. **22/05/2025:** Presented **CrowdSurfer** at IEEE ICRA 2025 in Atlanta, Georgia.
-9. **29/01/2025:** **CrowdSurfer** got accepted to **IEEE ICRA 2025**.
-10. **01/06/2024:** Graduated from Puducherry Technological University with a B. Tech. in Mechatronics. Started full-time role as Research Associate at RRC.
-11. **02/02/2024:** Joined Robotics Research Center(RRC), IIIT Hyderabad, in the final semester of my undergraduate studies.
+1. **15/04/2026:** Joined the **CLeAR Lab** at the National University of Singapore(NUS) under Prof. Harold Soh.
+2. **31/01/2026:** **Crowd-FM** got accepted to **IEEE ICRA 2026**. See you in Vienna!
+3. **13/11/2025:** My work **Multi-CrowdSurfer** got accepted to the **7th International Workshop on MAPF, AAAI 2026, Singapore.**
+4. **27/10/2025:** Attended **ROSCon** 2025 in Singapore.
+5. **06/10/2025:** Acting as a **reviewer** for IEEE ICRA 2026.
+6. **16/09/2025:** Submitted **Crowd-FM** to a IEEE ICRA 2026. This marked my final collaboration with RRC, IIITH - a place that has taught me everything I know about Robotics.
+7. **11/08/2025:** Joined **NTU Singapore** for graduate studies.
+8. **04/07/2025:** Joined the **Algorithmic Robotics Group** at NTU Singapore under Prof. Yoonchang Sung.
+9. **22/05/2025:** Presented **CrowdSurfer** at IEEE ICRA 2025 in Atlanta, Georgia.
+10. **29/01/2025:** **CrowdSurfer** got accepted to **IEEE ICRA 2025**.
+11. **01/06/2024:** Graduated from Puducherry Technological University with a B. Tech. in Mechatronics. Started full-time role as Research Associate at RRC.
+12. **02/02/2024:** Joined Robotics Research Center(RRC), IIIT Hyderabad, in the final semester of my undergraduate studies.
 
 
 <!-- 1. I used to be a U-14 State Level Cricket Player and I have played at "Eden Gardens: The Mecca of Indian Cricket."
