@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Robotics Researcher at **Nanyang Technological University, Singapore** interested in **Deep Learning and Computer Vision**. Currently I am working at the [Algorithmic Robotics Group(ARG) @ NTU](https://algrobogroup.github.io/) on Embodied Intelligence. Previously, I was a Research Assistant at [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), **International Institute of Information Technology (IIIT H)** where I worked on **path-planning** in densely crowded social spaces . In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. Join me in my journey and stay tuned for some cool updates!
+I am a Robotics Researcher based in Singapore and broadly interested in **Motion Planning under Uncertainty**. Currently I am working at the [Algorithmic Robotics Group(ARG) @ NTU](https://algrobogroup.github.io/) on Task and Motion Planning, under [Yoonchang Sung](https://yoonchangsung.com/) and at the [CLeAR Lab](https://clear-nus.github.io/) @ National University of Singapore(NUS) on Visual Social Navigation, under [Harold Soh](https://haroldsoh.com/). Previously, I was a Research Assistant at [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), **International Institute of Information Technology (IIIT H)**, under [Prof. K. Madhava Krishna](https://www.iiit.ac.in/faculty/k-madhava-krishna/) where I worked on **path-planning** in densely crowded social spaces . In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. Join me in my journey and stay tuned for some cool updates!
 
 
 ### Highlights
