@@ -22,12 +22,12 @@ I am a Robotics Researcher based in Singapore and broadly interested in **Motion
     <figcaption>CrowdSurfer on Husky A200 for ICRA 2025</figcaption>
   </figure>
   <figure>
-    <img src="./images/p3dx_speed.gif" alt="Crowd-FM on Pioneer 3-DX for ICRA 2026">
-    <figcaption>Crowd-FM on Pioneer 3-DX for ICRA 2026(indoors)</figcaption>
-  </figure>
-  <figure>
     <img src="./images/p3dx_outdoors.gif" alt="Crowd-FM on Pioneer 3-DX for ICRA 2026">
     <figcaption>Crowd-FM on Pioneer 3-DX for ICRA 2026(outdoors)</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/mani-imagine.gif" alt="Mani-Imagine(Imagination-driven Partially-Observable TAMP)">
+    <figcaption>Mani-Imagine(Imagination-driven Partially-Observable TAMP)</figcaption>
   </figure>
 </div>
 
