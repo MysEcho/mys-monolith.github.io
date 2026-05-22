@@ -4,7 +4,7 @@ excerpt: "Mani-Imagine in action on a Tabletop Scene"
 collection: projects
 permalink: /projects/mani-imagine/
 date: 2026-05-29
-gif: mani-imagine.gif
+gif: mani-imagine-resize.gif
 category: robotics
 ---
 
