@@ -43,11 +43,11 @@ Some moments from my journey so far:
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="./images/socnav_grp.jpeg" alt="Social Navigation Group">
+    <img src="./images/socnav_grp.jpg" alt="Social Navigation Group">
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="./images/griffin.jpg" alt="Griffin Labs">
+    <img src="./images/griffin.jpeg" alt="Griffin Labs">
     <figcaption></figcaption>
   </figure>
   <figure>
