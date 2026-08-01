@@ -26,7 +26,7 @@ I am a Robotics Researcher based in Singapore and broadly interested in **Motion
     <figcaption>Crowd-FM on Pioneer 3-DX for ICRA 2026(outdoors)</figcaption>
   </figure>
   <figure>
-    <img src="./images/mani-imagine.gif" alt="Mani-Imagine(Imagination-driven Partially-Observable TAMP)">
+    <img src="./images/mani-imagine-gif.gif" alt="Mani-Imagine(Imagination-driven Partially-Observable TAMP)">
     <figcaption>Mani-Imagine(Imagination-driven Partially-Observable TAMP)</figcaption>
   </figure>
 </div>
@@ -35,7 +35,7 @@ Some moments from my journey so far:
 ===============================
 <div class="rrc-gallery">
   <figure>
-    <img src="./images/RRC.jpeg" alt="Wheelchair Team">
+    <img src="./images/icra.jpeg" alt="ICRA 2026">
     <figcaption></figcaption>
   </figure>
   <figure>
@@ -43,15 +43,15 @@ Some moments from my journey so far:
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="./images/RRC_2.jpeg" alt="Wheelchair Team">
+    <img src="./images/socnav_grp.jpeg" alt="Social Navigation Group">
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="./images/chillis-dinner.jpg" alt="ROSCon">
+    <img src="./images/griffin.jpg" alt="Griffin Labs">
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="./images/arg_portrait.jpg" alt="ROSCon">
+    <img src="./images/arg_portrait.jpg" alt="ARG Lab">
     <figcaption></figcaption>
   </figure>
   <figure>
