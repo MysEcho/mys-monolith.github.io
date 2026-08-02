@@ -1,30 +1,51 @@
+/* Journey gallery — photo grid on the home page */
+
 .rrc-gallery {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 15px;
-  margin: 20px 0;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin: 1.2em 0 1.6em;
 }
 
 .rrc-gallery figure {
   margin: 0;
   text-align: center;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
 }
 
 .rrc-gallery img {
   width: 100%;
-  height: auto;
-  max-height: 200px;
+  height: 180px;
   object-fit: cover;
-  border-radius: 8px;
+  display: block;
+  border-radius: 12px;
+  transition: transform 0.35s ease, filter 0.35s ease;
+}
+
+.rrc-gallery figure:hover img {
+  transform: scale(1.045);
+  filter: brightness(1.05);
 }
 
 .rrc-gallery figcaption {
   margin-top: 8px;
-  font-size: 0.9em;
-  color: #666;
+  font-size: 0.85em;
+  color: #64748b;
+}
+
+.rrc-gallery figcaption:empty {
+  display: none;
 }
 
 @media (max-width: 768px) {
+  .rrc-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
   .rrc-gallery {
     grid-template-columns: 1fr;
   }

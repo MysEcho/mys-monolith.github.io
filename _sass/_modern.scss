@@ -1,0 +1,479 @@
+/* ==========================================================================
+   MODERN THEME LAYER
+   Imported last in assets/css/main.scss — overrides the stock
+   Minimal Mistakes / Academic Pages look with a cleaner design.
+   ========================================================================== */
+
+/*
+   Global polish
+   ========================================================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: $background-color;
+  color: $text-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  letter-spacing: -0.006em;
+}
+
+::selection {
+  background: $accent-soft;
+  color: $accent-color-dark;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.02em;
+  color: $darker-gray;
+}
+
+/* Content links: accent color with an animated underline */
+.page__content {
+  a:not(.btn) {
+    color: $accent-color;
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 1px;
+    transition: background-size 0.25s ease, color 0.2s ease;
+
+    &:hover {
+      color: $accent-color-dark;
+      background-size: 100% 1px;
+    }
+
+    &:visited {
+      color: $accent-color;
+    }
+  }
+
+  p, li {
+    line-height: 1.75;
+  }
+
+  h1 {
+    font-size: 2.1em;
+    font-weight: 800;
+    margin-bottom: 0.6em;
+  }
+
+  /* Section headings ("News:", "Some moments...") as clean labelled rules */
+  h1:not(:first-child),
+  h2 {
+    position: relative;
+    margin-top: 2.2em;
+    padding-bottom: 0.45em;
+    font-size: 1.45em;
+    font-weight: 700;
+    border-bottom: 1px solid $border-color;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 56px;
+      height: 2px;
+      background: linear-gradient(90deg, $accent-color, #8b5cf6);
+      border-radius: 2px;
+    }
+  }
+
+  h3 {
+    margin-top: 1.8em;
+    font-size: 1.2em;
+    font-weight: 700;
+  }
+}
+
+/* Archive pages (publications, projects, teaching) share the same treatment */
+.archive {
+  > h2,
+  > h1:not(.page__title) {
+    position: relative;
+    margin-top: 2em;
+    padding-bottom: 0.45em;
+    font-size: 1.45em;
+    font-weight: 700;
+    border-bottom: 1px solid $border-color;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 56px;
+      height: 2px;
+      background: linear-gradient(90deg, $accent-color, #8b5cf6);
+      border-radius: 2px;
+    }
+  }
+
+  /* the template emits an <hr> right after each category heading — redundant now */
+  > h2 + hr {
+    display: none;
+  }
+
+  .wordwrap a {
+    color: $accent-color;
+
+    &:hover {
+      color: $accent-color-dark;
+    }
+  }
+}
+
+/* Page title as a hero heading */
+.page__title {
+  font-size: 2.3em;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+  margin-bottom: 0.5em;
+}
+
+/*
+   Masthead — sticky glass nav
+   ========================================================================== */
+
+.masthead {
+  background: rgba(255, 255, 255, 0.82);
+  -webkit-backdrop-filter: saturate(180%) blur(14px);
+  backdrop-filter: saturate(180%) blur(14px);
+  border-bottom: 1px solid rgba(15, 23, 42, 0.07);
+  box-shadow: 0 1px 12px rgba(15, 23, 42, 0.04);
+}
+
+.masthead__menu-item {
+  a {
+    position: relative;
+    padding: 0.45em 0.85em;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 0.92em;
+    color: $dark-gray;
+    transition: color 0.18s ease, background 0.18s ease;
+
+    &:hover {
+      color: $accent-color;
+      background: $accent-soft;
+    }
+  }
+
+  &--lg a {
+    font-weight: 700;
+    font-size: 1.02em;
+    letter-spacing: -0.02em;
+    color: $darker-gray;
+
+    &:hover {
+      background: transparent;
+      color: $accent-color;
+    }
+  }
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    color: $dark-gray;
+  }
+
+  button {
+    background: $accent-color;
+    border-radius: 8px;
+  }
+}
+
+/*
+   Author sidebar — profile card
+   ========================================================================== */
+
+.author__avatar {
+  img {
+    width: 175px;
+    max-width: 175px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    padding: 4px;
+    background:
+      linear-gradient($background-color, $background-color) padding-box,
+      linear-gradient(135deg, $accent-color, #8b5cf6, #ec4899) border-box;
+    border: 3px solid transparent;
+    box-shadow: 0 8px 24px rgba(79, 70, 229, 0.15);
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: scale(1.03) rotate(1deg);
+    }
+  }
+}
+
+.author__name {
+  font-weight: 700;
+  font-size: 1.15em;
+  letter-spacing: -0.02em;
+  color: $darker-gray;
+}
+
+.author__bio {
+  color: $muted-text-color;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.author__urls {
+  li {
+    color: $gray;
+    font-size: 0.9em;
+    white-space: normal;
+    overflow-wrap: break-word;
+  }
+
+  a {
+    color: $dark-gray;
+    text-decoration: none;
+    transition: color 0.18s ease;
+
+    &:hover {
+      color: $accent-color;
+      text-decoration: none;
+    }
+  }
+
+  .fas, .fab, .far, .fa {
+    color: $gray;
+    transition: color 0.18s ease;
+  }
+
+  a:hover .fas,
+  a:hover .fab,
+  a:hover .far,
+  a:hover .fa {
+    color: $accent-color;
+  }
+}
+
+.author__urls-wrapper button {
+  background: $accent-color;
+  border-radius: 8px;
+  font-weight: 600;
+
+  &:hover {
+    background: $accent-color-dark;
+  }
+}
+
+/*
+   Buttons
+   ========================================================================== */
+
+.btn {
+  border-radius: 999px;
+  padding: 0.55em 1.3em;
+  font-weight: 600;
+  letter-spacing: 0;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px rgba(15, 23, 42, 0.15);
+  }
+}
+
+/*
+   Archive listings (publications, projects, teaching…) — cards
+   ========================================================================== */
+
+.list__item {
+  margin-bottom: 1.1em;
+
+  .archive__item {
+    padding: 1.15em 1.35em;
+    background: #fff;
+    border: 1px solid $border-color;
+    border-radius: 14px;
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      border-color: rgba(79, 70, 229, 0.35);
+      box-shadow: 0 10px 30px rgba(15, 23, 42, 0.09);
+    }
+  }
+}
+
+.archive__item-title {
+  margin-top: 0;
+  font-size: 1.12em;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+
+  a {
+    color: $darker-gray;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent-color;
+    }
+  }
+}
+
+.archive__item-excerpt {
+  font-size: 0.88em;
+  color: $muted-text-color;
+  line-height: 1.65;
+}
+
+/* Section labels above groups of cards */
+.archive__subtitle {
+  margin: 2em 0 0.9em;
+  padding-bottom: 0.4em;
+  font-family: $monospace;
+  font-size: 0.82em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: $muted-text-color;
+  border-bottom: 1px solid $border-color;
+}
+
+/*
+   News timeline (about page)
+   ========================================================================== */
+
+.news-list {
+  ol {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 1.4em;
+    border-left: 2px solid $border-color;
+  }
+
+  li {
+    position: relative;
+    margin-bottom: 1.05em;
+    padding-left: 0.4em;
+    font-size: 0.95em;
+    line-height: 1.65;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: -1.83em;
+      top: 0.5em;
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: #fff;
+      border: 2.5px solid $accent-color;
+      box-shadow: 0 0 0 3px $accent-soft;
+    }
+
+    &:first-child::before {
+      background: $accent-color;
+    }
+
+    > strong:first-child {
+      display: inline-block;
+      font-family: $monospace;
+      font-size: 0.82em;
+      font-weight: 600;
+      color: $accent-color-dark;
+      background: $accent-soft;
+      padding: 0.1em 0.6em;
+      border-radius: 999px;
+      margin-right: 0.35em;
+    }
+  }
+}
+
+/*
+   Footer
+   ========================================================================== */
+
+.page__footer {
+  background: #fff;
+  border-top: 1px solid $border-color;
+  color: $muted-text-color;
+
+  footer {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+  }
+
+  a {
+    color: $dark-gray;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent-color;
+    }
+  }
+}
+
+.page__footer-copyright {
+  font-size: 0.8em;
+  color: $gray;
+}
+
+/*
+   Code, tables, notices
+   ========================================================================== */
+
+.page__content {
+  pre {
+    border-radius: 12px;
+    border: 1px solid $border-color;
+    padding: 1em 1.2em;
+  }
+
+  code {
+    font-family: $monospace;
+    font-size: 0.85em;
+    background: $code-background-color;
+    border-radius: 6px;
+    padding: 0.15em 0.4em;
+  }
+
+  pre code {
+    background: transparent;
+    padding: 0;
+  }
+
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid $border-color;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+
+    th {
+      background: #f8fafc;
+      font-weight: 600;
+    }
+  }
+}
+
+.notice {
+  border-radius: 12px;
+}
+
+/*
+   Thin, unobtrusive scrollbar
+   ========================================================================== */
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: $light-gray transparent;
+}
