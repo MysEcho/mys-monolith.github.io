@@ -29,7 +29,7 @@ I am a Robotics Researcher based in Singapore and broadly interested in **Motion
 
     <div class="exp-node">
       <span class="exp-tag exp-tag--spacer" aria-hidden="true">Current</span>
-      <div class="exp-badge">
+      <div class="exp-badge exp-badge--crest">
         <img src="./images/logos/nus.svg" alt="National University of Singapore logo">
       </div>
       <div class="exp-dates">Apr 2026 &ndash; Present</div>
@@ -40,7 +40,7 @@ I am a Robotics Researcher based in Singapore and broadly interested in **Motion
 
     <div class="exp-node">
       <span class="exp-tag exp-tag--spacer" aria-hidden="true">Current</span>
-      <div class="exp-badge">
+      <div class="exp-badge exp-badge--crest">
         <img src="./images/logos/ntu.svg" alt="Nanyang Technological University logo">
       </div>
       <div class="exp-dates">Jul 2025 &ndash; Present</div>

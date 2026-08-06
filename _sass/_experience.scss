@@ -89,6 +89,12 @@ $exp-gap          : 26px;
     height: 100%;
     object-fit: contain;
   }
+
+  /* crest-style logos (NUS, NTU) are cropped tight to their own artwork —
+     give them extra inner margin so they read as inset, not clipped */
+  &--crest {
+    padding: 23px;
+  }
 }
 
 .exp-node:hover .exp-badge {
