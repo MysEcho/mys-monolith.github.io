@@ -8,7 +8,62 @@ redirect_from:
 ---
 
 
-I am a Robotics Researcher based in Singapore and broadly interested in **Motion Planning under Uncertainty**. Currently, I am interning as an Autonomy Engineer at Griffin Labs (a fully-owned subsidiary of LionsBot), working on novel frontier mapping and navigation algorithms. I am also collaborating with the [Algorithmic Robotics Group (ARG) @ NTU](https://algrobogroup.github.io/) on Task and Motion Planning, under [Yoonchang Sung](https://yoonchangsung.com/), and at the [CLeAR Lab @ NUS](https://clear-nus.github.io/) on Visual Social Navigation, under [Harold Soh](https://haroldsoh.com/). Previously, I was a Research Assistant at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), **International Institute of Information Technology (IIIT H)**, under [Prof. K. Madhava Krishna](https://www.iiit.ac.in/faculty/k-madhava-krishna/), where I worked on **path planning** in densely crowded social spaces. In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. Join me in my journey and stay tuned for some cool updates!
+I am a Robotics Researcher based in Singapore and broadly interested in **Motion Planning under Uncertainty**. Currently, I am interning as a Research Engineer at General Robotics (prev. Scaled Foundations), working on autoresearch. I am also collaborating with the [Algorithmic Robotics Group (ARG) @ NTU](https://algrobogroup.github.io/) on Task and Motion Planning, under [Yoonchang Sung](https://yoonchangsung.com/), and at the [CLeAR Lab @ NUS](https://clear-nus.github.io/) on Visual Social Navigation, under [Harold Soh](https://haroldsoh.com/). Previously, I was a Research Assistant at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), **International Institute of Information Technology (IIIT H)**, under [Prof. K. Madhava Krishna](https://www.iiit.ac.in/faculty/k-madhava-krishna/), where I worked on **path planning** in densely crowded social spaces. In the future, I would like to work on Visual Social Navigation for robots and deploy them in public spaces. Join me in my journey and stay tuned for some cool updates!
+
+
+## Experience
+
+<div class="experience-list">
+
+  <div class="experience-item">
+    <div class="experience-logo"><img src="./images/logos/general-robotics.png" alt="General Robotics logo"></div>
+    <div class="experience-body">
+      <div class="experience-heading">
+        <h3 class="experience-role">Research Engineer Intern</h3>
+        <span class="experience-dates">Jul 2026 &ndash; Present</span>
+      </div>
+      <p class="experience-org">General Robotics <span class="experience-org-note">(prev. Scaled Foundations)</span></p>
+      <p class="experience-desc">Working on autoresearch &mdash; building AI systems that accelerate robotics research and development.</p>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo"><img src="./images/logos/nus.svg" alt="National University of Singapore logo"></div>
+    <div class="experience-body">
+      <div class="experience-heading">
+        <h3 class="experience-role">Graduate Researcher, CLeAR Lab</h3>
+        <span class="experience-dates">Apr 2026 &ndash; Present</span>
+      </div>
+      <p class="experience-org">National University of Singapore (NUS)</p>
+      <p class="experience-desc">Working on Visual Social Navigation under <a href="https://haroldsoh.com/">Prof. Harold Soh</a>.</p>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo"><img src="./images/logos/ntu.svg" alt="Nanyang Technological University logo"></div>
+    <div class="experience-body">
+      <div class="experience-heading">
+        <h3 class="experience-role">Graduate Researcher, Algorithmic Robotics Group</h3>
+        <span class="experience-dates">Jul 2025 &ndash; Present</span>
+      </div>
+      <p class="experience-org">Nanyang Technological University (NTU)</p>
+      <p class="experience-desc">Pursuing graduate studies and working on Task and Motion Planning under <a href="https://yoonchangsung.com/">Prof. Yoonchang Sung</a>.</p>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo"><img src="./images/logos/iiith.png" alt="IIIT Hyderabad logo"></div>
+    <div class="experience-body">
+      <div class="experience-heading">
+        <h3 class="experience-role">Research Associate, Robotics Research Center</h3>
+        <span class="experience-dates">Feb 2024 &ndash; Sep 2025</span>
+      </div>
+      <p class="experience-org">International Institute of Information Technology, Hyderabad (IIIT&nbsp;H)</p>
+      <p class="experience-desc">Joined as a Research Assistant in the final semester of my undergraduate studies and continued full-time as a Research Associate after graduating. Worked on path planning in densely crowded social spaces under <a href="https://www.iiit.ac.in/faculty/k-madhava-krishna/">Prof. K. Madhava Krishna</a>.</p>
+    </div>
+  </div>
+
+</div>
 
 
 ## Highlights
@@ -66,7 +121,7 @@ I am a Robotics Researcher based in Singapore and broadly interested in **Motion
 
 <div class="news-list" markdown="1">
 
-1. **20/07/2026** Joined **Griffin Labs** as an Autonomy Engineer Intern, to work on novel frontier mapping and navigation algorithms. 
+1. **20/07/2026** Joined **General Robotics** (prev. Scaled Foundations) as a Research Engineer Intern, to work on autoresearch. 
 2. **02/06/2026** Presented Crowd-FM at IEEE ICRA 2026 and at the Learning-HRI workshop@ICRA, in Vienna! 
 3. **15/04/2026** Joined the **CLeAR Lab** at the National University of Singapore (NUS) under Prof. Harold Soh.
 4. **31/01/2026** **Crowd-FM** got accepted to **IEEE ICRA 2026**. See you in Vienna!
