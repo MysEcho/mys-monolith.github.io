@@ -13,56 +13,54 @@ I am a Robotics Researcher based in Singapore and broadly interested in **Motion
 
 ## Experience
 
-<div class="experience-list">
+<div class="exp-timeline">
+  <div class="exp-track">
 
-  <div class="experience-item">
-    <div class="experience-logo"><img src="./images/logos/general-robotics.png" alt="General Robotics logo"></div>
-    <div class="experience-body">
-      <div class="experience-heading">
-        <h3 class="experience-role">Research Engineer Intern</h3>
-        <span class="experience-dates">Jul 2026 &ndash; Present</span>
+    <div class="exp-node is-current">
+      <span class="exp-tag">Current</span>
+      <div class="exp-badge">
+        <img src="./images/logos/general-robotics.png" alt="General Robotics logo">
       </div>
-      <p class="experience-org">General Robotics <span class="experience-org-note">(prev. Scaled Foundations)</span></p>
-      <p class="experience-desc">Working on autoresearch &mdash; building AI systems that accelerate robotics research and development.</p>
+      <div class="exp-dates">Jul 2026 &ndash; Present</div>
+      <div class="exp-org">General Robotics</div>
+      <div class="exp-role">Research Engineer Intern</div>
+      <div class="exp-sub">Autoresearch</div>
     </div>
-  </div>
 
-  <div class="experience-item">
-    <div class="experience-logo"><img src="./images/logos/nus.svg" alt="National University of Singapore logo"></div>
-    <div class="experience-body">
-      <div class="experience-heading">
-        <h3 class="experience-role">Graduate Researcher, CLeAR Lab</h3>
-        <span class="experience-dates">Apr 2026 &ndash; Present</span>
+    <div class="exp-node">
+      <span class="exp-tag exp-tag--spacer" aria-hidden="true">Current</span>
+      <div class="exp-badge">
+        <img src="./images/logos/nus.svg" alt="National University of Singapore logo">
       </div>
-      <p class="experience-org">National University of Singapore (NUS)</p>
-      <p class="experience-desc">Working on Visual Social Navigation under <a href="https://haroldsoh.com/">Prof. Harold Soh</a>.</p>
+      <div class="exp-dates">Apr 2026 &ndash; Present</div>
+      <div class="exp-org">NUS &middot; CLeAR Lab</div>
+      <div class="exp-role">Graduate Researcher</div>
+      <div class="exp-sub">under <a href="https://haroldsoh.com/">Prof. Harold Soh</a></div>
     </div>
-  </div>
 
-  <div class="experience-item">
-    <div class="experience-logo"><img src="./images/logos/ntu.svg" alt="Nanyang Technological University logo"></div>
-    <div class="experience-body">
-      <div class="experience-heading">
-        <h3 class="experience-role">Graduate Researcher, Algorithmic Robotics Group</h3>
-        <span class="experience-dates">Jul 2025 &ndash; Present</span>
+    <div class="exp-node">
+      <span class="exp-tag exp-tag--spacer" aria-hidden="true">Current</span>
+      <div class="exp-badge">
+        <img src="./images/logos/ntu.svg" alt="Nanyang Technological University logo">
       </div>
-      <p class="experience-org">Nanyang Technological University (NTU)</p>
-      <p class="experience-desc">Pursuing graduate studies and working on Task and Motion Planning under <a href="https://yoonchangsung.com/">Prof. Yoonchang Sung</a>.</p>
+      <div class="exp-dates">Jul 2025 &ndash; Present</div>
+      <div class="exp-org">NTU &middot; ARG</div>
+      <div class="exp-role">Graduate Researcher</div>
+      <div class="exp-sub">under <a href="https://yoonchangsung.com/">Prof. Yoonchang Sung</a></div>
     </div>
-  </div>
 
-  <div class="experience-item">
-    <div class="experience-logo"><img src="./images/logos/iiith.png" alt="IIIT Hyderabad logo"></div>
-    <div class="experience-body">
-      <div class="experience-heading">
-        <h3 class="experience-role">Research Associate, Robotics Research Center</h3>
-        <span class="experience-dates">Feb 2024 &ndash; Sep 2025</span>
+    <div class="exp-node">
+      <span class="exp-tag exp-tag--spacer" aria-hidden="true">Current</span>
+      <div class="exp-badge">
+        <img src="./images/logos/iiith.png" alt="IIIT Hyderabad logo">
       </div>
-      <p class="experience-org">International Institute of Information Technology, Hyderabad (IIIT&nbsp;H)</p>
-      <p class="experience-desc">Joined as a Research Assistant in the final semester of my undergraduate studies and continued full-time as a Research Associate after graduating. Worked on path planning in densely crowded social spaces under <a href="https://www.iiit.ac.in/faculty/k-madhava-krishna/">Prof. K. Madhava Krishna</a>.</p>
+      <div class="exp-dates">Feb 2024 &ndash; Sep 2025</div>
+      <div class="exp-org">IIIT Hyderabad &middot; RRC</div>
+      <div class="exp-role">Research Associate</div>
+      <div class="exp-sub">under <a href="https://www.iiit.ac.in/faculty/k-madhava-krishna/">Prof. K. Madhava Krishna</a></div>
     </div>
-  </div>
 
+  </div>
 </div>
 
 
@@ -121,7 +119,7 @@ I am a Robotics Researcher based in Singapore and broadly interested in **Motion
 
 <div class="news-list" markdown="1">
 
-1. **20/07/2026** Joined **General Robotics** (prev. Scaled Foundations) as a Research Engineer Intern, to work on autoresearch. 
+1. **11/08/2026** Joined **General Robotics** (prev. Scaled Foundations) as a Research Engineer Intern, to work on autoresearch. 
 2. **02/06/2026** Presented Crowd-FM at IEEE ICRA 2026 and at the Learning-HRI workshop@ICRA, in Vienna! 
 3. **15/04/2026** Joined the **CLeAR Lab** at the National University of Singapore (NUS) under Prof. Harold Soh.
 4. **31/01/2026** **Crowd-FM** got accepted to **IEEE ICRA 2026**. See you in Vienna!
