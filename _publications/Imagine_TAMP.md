@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/imagine_tamp
 excerpt: ''
 date: 2027-09-15
-venue: 'IEEE International Conference on Robotics and Automation(ICRA)'
+venue: 'Under Review: IEEE International Conference on Robotics and Automation(ICRA)'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2609.20396'
 citation: 'Antareep Singha, Shivaram Kumar, Yoonwoo Kim, and Yoonchang Sung'
