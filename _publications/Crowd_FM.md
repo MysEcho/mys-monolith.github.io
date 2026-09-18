@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/CrowdFM
 excerpt: ''
 date: 2026-06-01
-venue: 'IEEE International Conference on Robotics and Automation(ICRA) & Wo-Learning-HRI @ ICRA'
+venue: 'IEEE International Conference on Robotics and Automation(ICRA)'
 slidesurl: 'https://smart-wheelchair-rrc.github.io/crowdfm-webpage/'
 paperurl: 'https://arxiv.org/pdf/2602.06698'
 citation: 'Antareep Singha, Laksh Nanwani, Mathai Mathew P., Samkit Jain, P.T. Singamaneni, Arun Kumar Singh, K. Madhava Krishna.'
