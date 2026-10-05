@@ -119,7 +119,7 @@ I am a Robotics Researcher based in Singapore and broadly interested in **Motion
 
 <div class="news-list" markdown="1">
 
-1. **15/09/2026** Submitted **Imagine-TAMP** to IEEE ICRA 2027. 
+1. **15/09/2026** Submitted **Imagine-TAMP** to a major conference. 
 2. **20/07/2026** Joined **General Robotics** (prev. Scaled Foundations) as a Research Engineer Intern, to work on autoresearch. 
 3. **02/06/2026** Presented Crowd-FM at IEEE ICRA 2026 and at the Learning-HRI workshop@ICRA, in Vienna! 
 4. **15/04/2026** Joined the **CLeAR Lab** at the National University of Singapore (NUS) under Prof. Harold Soh.
